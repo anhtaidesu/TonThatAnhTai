@@ -4,12 +4,13 @@
   
   <img src="https://images.pexels.com/photos/4776/man-sunglasses-art-graffiti.jpg?cs=srgb&dl=pexels-picography-4776.jpg&fm=jpg" alt="Andy Do" width="500">
    <p>Hey there 👋</p>
-  <p> I’m Andy Do, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+  <p> I’m NeroDesu, a web-designer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
   </p>
 
 <table>
   <tr>
-    <td valign="top"><img src="https://img.shields.io/github/languages/top/DoVuDung/do-an-tich-hop"/></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Facebook-Profile-blue?link=https%3A%2F%2Fwww.facebook.com%2FTonTai.0805%2F
+"/></td>
   </tr>
 </table>
 
